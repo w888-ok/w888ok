@@ -1,1 +1,18 @@
-
+{
+  "name": "w888ok",
+  "package": "ทางเข้า ทางเข้ามือถือ w88 w888 เว็บตรง ไม่ผ่านเอเย่นต์",
+  "version": "0.1.0",
+  "description": "ทางเข้า ทางเข้ามือถือ w88 w888 เว็บตรง ไม่ผ่านเอเย่นต์",
+  "keywords": [
+    "w88",
+    "w88 ทางเข้า",
+    "w888",
+    "w88ok",
+    "w88 com"
+  ],
+  "repository": "https://github.com/w888-ok/w888ok.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
